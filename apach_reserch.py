@@ -2,7 +2,6 @@ import apache_log_parser as par
 import pandas as pd
 import argparse
 import datetime as dt
-from pprint import pprint
 
 #オプション引数とコマンドライン引数の定義
 def get_args():
